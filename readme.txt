@@ -9,3 +9,5 @@ Second change
 
 Master is old branch named master
 
+1. Stash first action.
+
